@@ -17,3 +17,9 @@ launchdarkly_access_token="my-api-key-here"
 ```
 
 For other methods, refer to the [terraform documentation](https://developer.hashicorp.com/terraform/language/values/variables)
+
+## LaunchDarkly Terraform Provider
+
+The script creates a set of LaunchDarkly custom roles and LaunchDarkly teams resources.
+
+For details of the LD provider, head [here](https://registry.terraform.io/providers/launchdarkly/launchdarkly/latest/docs).
